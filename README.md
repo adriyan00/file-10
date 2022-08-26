@@ -1,5 +1,3 @@
-cherry_blossomsunflowerFREE TOLLShibiscuswilted_flower
-
 pkg update
 
 pkg upgrade
